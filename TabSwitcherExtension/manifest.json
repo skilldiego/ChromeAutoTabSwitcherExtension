@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Auto Tab Switcher",
   "description": "Automatically switches tabs at a set interval. Includes options for auto-refresh, auto-scrolling, and pausing on activity.",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "permissions": [
     "tabs",
     "storage",
